@@ -1,5 +1,3 @@
-set -e
-set -x
 cd `dirname $0`
 echo -n "." >> README.md
 git add -A
